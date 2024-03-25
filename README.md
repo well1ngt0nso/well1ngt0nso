@@ -7,5 +7,8 @@ O QUE VOCÊS IRÃO ENCONTRAR:</br>
 </br>
 </br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yelow?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fwell1ngt0nso%2Fwell1ngt0nso%2Fblob%2Fmain%2FREADME.md) ![Badge em Desenvolvimento](https://img.shields.io/badge/INICIATED-2024-blue?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fwell1ngt0nso%2Fwell1ngt0nso%2Fblob%2Fmain%2FREADME.md)
+
+
+
 
