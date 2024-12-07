@@ -10,5 +10,7 @@ O QUE VOCÊS IRÃO ENCONTRAR:</br>
 ![Badge em Desenvolvimento](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yelow?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fwell1ngt0nso%2Fwell1ngt0nso%2Fblob%2Fmain%2FREADME.md) ![Badge em Desenvolvimento](https://img.shields.io/badge/INICIATED-2024-blue?style=flat-square&link=https%3A%2F%2Fgithub.com%2Fwell1ngt0nso%2Fwell1ngt0nso%2Fblob%2Fmain%2FREADME.md)
 
 
+LINKS:
 
+[#000USBSERIAL](https://github.com/well1ngt0nso/engenhando_1.0/tree/main/USB_SERIAL#programando-o-esp01esp01s-com-o-conversor-digital-de-outra-placa-arduinoesp)
 
