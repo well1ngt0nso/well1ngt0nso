@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow?style=flat-square" alt="Status de Desenvolvimento">
-  <img src="https://img.shields.io/badge/INICIO-2024-blue?style=flat-square" alt="Ano de Início">
+  <img src="https://img.shields.io/badge/INICIO-2019-blue?style=flat-square" alt="Ano de Início">
 </p>
 
 ---
