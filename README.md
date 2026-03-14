@@ -43,5 +43,5 @@ Abaixo você encontra algguns links rápidos para acessar as documentações det
 ---
 
 <p align="center">
-  <em>Sinta-se à vontade para explorar, clonar os projetos e sugerir melhorias!</em>
+  <em>Por hoje é só isso 🌵</em>
 </p>
