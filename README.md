@@ -35,6 +35,7 @@ Abaixo você encontra algguns links rápidos para acessar as documentações det
 * 📂 *[Plantas e Diagramas]* *(Em breve)*
 
 ### 🧠 Inteligência Artificial
+* 📂 **[Desenvolvimento de um sistema para visualização, teste e estudo da arquitetura de redes neurais MLP](https://github.com/well1ngt0nso/NNVis#nnvis)**
 * 📂 *[Estudos e Redes Neurais com TensorFlow/Keras]* *(Em breve)*
 
 ### 💻 Scripts e Automação
