@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡ Repositório de Engenharia e Tecnologia 🚀 </h1>
+<h1 align="center"> ⚡ Repositório de Engenharia e Tecnologia</h1>
 
 <p align="center">
   <em>Um espaço dedicado ao aprofundamento prático e teórico no mundo da Engenharia Elétrica, Eletrônica, Programação e Design 3D.</em>
@@ -11,7 +11,7 @@
 
 ---
 
-## 📌 O que você vai encontrar aqui?
+## O que você vai encontrar aqui?
 
 Este é o meu compilado de projetos, estudos e soluções que podem, unir hardware, software e mecânica. Separei alguns focos:
 
