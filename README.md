@@ -35,11 +35,11 @@ Abaixo você encontra algguns links rápidos para acessar as documentações det
 * 📂 *[Plantas e Diagramas]* *(Em breve)*
 
 ### 🧠 Inteligência Artificial
-* 📂 **[Desenvolvimento de um sistema para visualização, teste e estudo da arquitetura de redes neurais MLP](https://github.com/well1ngt0nso/NNVis#nnvis)**
+* 📂 **Desenvolvimento de um sistema para visualização, teste e estudo da arquitetura de redes neurais MLP: [Repositório](https://github.com/well1ngt0nso/NNVis) e [Aplicação](https://github.com/well1ngt0nso/NNVis#nnvis)**
 * 📂 *[Estudos e Redes Neurais com TensorFlow/Keras]* *(Em breve)*
 
 ### 💻 Scripts e Automação
-* 📂 **Desenvolvimento de um sisema para visualização e manipulação de impedâncias na Carta de Smith [Repositório](https://github.com/well1ngt0nso/SmithViz) [Interace](https://well1ngt0nso.github.io/SmithViz/)**
+* 📂 **Desenvolvimento de um sisema para visualização e manipulação de impedâncias na Carta de Smith: [Repositório](https://github.com/well1ngt0nso/SmithViz) e [Aplicação](https://well1ngt0nso.github.io/SmithViz/)**
 
 ---
 
