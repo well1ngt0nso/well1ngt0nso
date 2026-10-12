@@ -39,7 +39,7 @@ Abaixo você encontra algguns links rápidos para acessar as documentações det
 * 📂 *[Estudos e Redes Neurais com TensorFlow/Keras]* *(Em breve)*
 
 ### 💻 Scripts e Automação
-* 📂 *[Ferramentas em Python e C++]* *(Em breve)*
+* 📂 **Desenvolvimento de um sisema para visualização e manipulação de impedâncias na Carta de Smith [Repositório](https://github.com/well1ngt0nso/SmithViz) [Interace](https://well1ngt0nso.github.io/SmithViz/)**
 
 ---
 
